@@ -21,7 +21,9 @@ public class NewRec extends JFrame {
 	JButton submit = new JButton("Submit");
 	JButton breset = new JButton("Reset");
 	JButton back = new JButton("Back");
-	NewRec(){
+	NewRec()
+	//murli
+	{
 		label1.setText("!! INSERT NEW RECORD !!");
 		label2.setText(" Name :- ");
 		label3.setText(" Roll No. :- ");
