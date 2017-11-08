@@ -5,11 +5,6 @@ public class NewRec extends JFrame {
 	public static void main(String[] args) {
 		NewRec frameTabel = new NewRec();
 	}
-	JPanel panel = new JPanel();
-	JTextField name = new JTextField(50);
-	JTextField rollno = new JTextField(10);
-	JTextField branch = new JTextField(10);
-	JTextField phoneno = new JTextField(10);
 	JLabel label1 = new JLabel();
 	JLabel label2 = new JLabel();
 	JLabel label3 = new JLabel();
